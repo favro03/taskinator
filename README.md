@@ -12,7 +12,7 @@ A task tracking application
 ## Screenshot
 Here is a screenshot of the completed site:
 
-![portfolio of work screenshot](/assets/images/portfolio-of-work.png)
+![portfolio of work screenshot](/assets/images/Taskinator.jpg)
 
 ## Link
 Link to the taskinator
