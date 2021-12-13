@@ -17,5 +17,5 @@ Here is a screenshot of the completed site:
 ## Link
 Link to my portfolio of work:
 
-https://favro03.github.io/portfolio-of-work/
+https://github.com/favro03/taskinator
 
